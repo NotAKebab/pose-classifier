@@ -1,7 +1,7 @@
 # Pose Powers
 
 
-"Pose Powers" es un juego interactivo que permite a los jugadores replicar escenarios ficticios al activar efectos visuales inspirados en poderes de Dragon Ball y superhéroes mediante la realización de poses específicas.
+Pose Powers es una aplicacion interactiva que permite a los jugadores replicar escenarios ficticios al activar efectos visuales inspirados en poderes de Dragon Ball y superhéroes mediante la realización de poses específicas.
 
 
 ## GDD:
